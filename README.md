@@ -1,6 +1,7 @@
-# 🍷 Wine Quality Prediction – ML + Docker + CI/CD
-Live on : 
+# Live on : 
 https://wine-streamlit-ml-latest-2.onrender.com/
+🍷 Wine Quality Prediction – ML + Docker + CI/CD
+
 A **production-style Machine Learning project** that predicts wine quality using multiple ML models, deployed as an interactive **Streamlit web app**, fully **Dockerized** and integrated with **CI/CD using GitHub Actions**.
 
 ---
